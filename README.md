@@ -27,7 +27,7 @@ In an increasingly globalized world, the need to understand and convert between 
 
 1. **Clone the repository**:
     ```bash
-    git clone [[https://github.com/yourusername/CurrencyConverterReact](https://github.com/sushilrajeeva/CurrencyConverterReact)]
+    git clone [(https://github.com/sushilrajeeva/CurrencyConverterReact)]
     cd [CurrencyConverterReact]
     ```
 
